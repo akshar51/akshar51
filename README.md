@@ -26,6 +26,10 @@ Hello, my name is **Akshar Parekh**. I hold a **Bachelor’s degree in Electrica
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshar51&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akshar51&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -33,8 +37,6 @@ Hello, my name is **Akshar Parekh**. I hold a **Bachelor’s degree in Electrica
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshar51&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshar51&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
