@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello, I am Akshar</h1>
 
+## 💫 About Me:
 Hello, my name is **Akshar Parekh**. I hold a **Bachelor’s degree in Electrical Engineering, completed in 2023**. After graduation, I discovered my passion for coding and transitioned into the tech field. I am currently focused on **Full Stack Development**, with hands-on experience in **front-end technologies like JavaScript and React** as well as **back-end development using Node.js**.
 
 ## 🌐 Socials:
