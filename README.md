@@ -28,7 +28,9 @@ Hello, my name is **Akshar Parekh**. I hold a **Bachelor’s degree in Electrica
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akshar51&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=akshar51&theme=yeblu&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshar51&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
